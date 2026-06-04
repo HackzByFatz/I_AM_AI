@@ -3,7 +3,8 @@
 ```mermaid
 graph TD
     World[World Layer] --> Perception
-    Perception --> Subconscious
+    Perception --> Prediction
+    Prediction --> Subconscious
     Subconscious --> Conscious
     Conscious --> Body
 ```
