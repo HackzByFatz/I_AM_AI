@@ -1,1 +1,0 @@
-[Full content with Mermaid for Cognitive Stack]
