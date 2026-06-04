@@ -1,10 +1,10 @@
 # I_AM_AI
 
-Project for building an advanced AI agent architecture inspired by human cognition.
+Project for building an advanced AI cognitive architecture inspired by human mind systems.
 
 ## Structure
-- `blueprints/` - Core cognitive architecture documents
-- `docs/` - Research and notes
+- `blueprints/` - Core architecture documents with diagrams
+- `docs/` - Research and supporting materials
 - `src/` - Future implementation code
 
 Built with best practices: Conventional Commits, GitHub Flow.
